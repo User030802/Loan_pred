@@ -62,3 +62,19 @@ Independent variable: Education	,Self_Employed ,Credit_History ,Property_Area	,A
 
 3. Report
 <img width="639" alt="image" src="https://github.com/user-attachments/assets/962c9096-e512-49bf-a1df-c2245e225fe5">
+
+Results and evaluation:
+* Logistic Regression
+- imbalanced performance and not very effective
+
+* Decision Tree Classifier
+- Balanced result, identifield approved loan decisin with 
+less false positives
+-> viable model
+* Random forest
+- High for both results, can identify both approve and 
+denied loan
+-> high in accuracy and might be the best model for this dataset
+* K-Neighbors
+- though performance was acceptable, it is less effective than the 2 above
+-> good but not as good as RF and DT

@@ -1,6 +1,6 @@
 Project Title: Loan Approval Prediction
 
-Major aim: find out which customer will have their loan approved by the bank
+Major aim: find out which ML model that perform well that is best suitable for the company, dataset
 
 * Dataset: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/code?datasetId=137197&sortBy=voteCount
 
